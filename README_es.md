@@ -5,10 +5,10 @@ La primera columna llamada 'Codigo' contiene el código del producto, y las sigu
 
 ## Ejemplo del archivo Excel
 
-    Codigo      1      2       4       5      7      8     9     15
-0     0039    169    172   176.0   158.0    180    150   172    142
-1     0040    344    350   359.0   323.0    367    307   350    289
-2     0041    654    666   683.0   615.0    700    584   666    551
+        Codigo      1      2       4       5      7      8     9     15
+    0     0039    169    172   176.0   158.0    180    150   172    142
+    1     0040    344    350   359.0   323.0    367    307   350    289
+    2     0041    654    666   683.0   615.0    700    584   666    551
 
 # Script de División de Datos
 

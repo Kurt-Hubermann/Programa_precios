@@ -3,11 +3,11 @@
 The program takes an Excel file containing product prices, transforms them into a special format to be inserted into the billing program. The first column named 'Codigo' contains the product code, and the following columns are the different price lists that need to be modified, each with the price it should have for that product. Each price list is saved in a separate file.
 
 ## Example Excel File
-
-    Codigo      1      2       4       5      7      8     9     15
-0     0039    169    172   176.0   158.0    180    150   172    142
-1     0040    344    350   359.0   323.0    367    307   350    289
-2     0041    654    666   683.0   615.0    700    584   666    551
+    
+        Codigo      1      2       4       5      7      8     9     15
+    0     0039    169    172   176.0   158.0    180    150   172    142
+    1     0040    344    350   359.0   323.0    367    307   350    289
+    2     0041    654    666   683.0   615.0    700    584   666    551
 
 # Data Splitting Script
 

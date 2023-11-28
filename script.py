@@ -5,7 +5,7 @@ import os
 def get_files(folder):
     for file_name in os.listdir(folder):
         file_path = os.path.join(folder, file_name)
-        if os.path.isfile(file_path):
+        if os.path.isfile(file_path) and not file_name.endswith('.gitkeep'):
             files = file_path
     return files
 
